@@ -1,4 +1,4 @@
-package alma;
+
 
 public class TaxiMove {
 	  private static class Move {
