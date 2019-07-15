@@ -1,5 +1,3 @@
-package almazhanc;
-import java.util.Random;
 
 public class MatrixPower {
 	
