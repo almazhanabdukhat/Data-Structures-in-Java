@@ -1,7 +1,7 @@
-package almazhanc;
+
 import java.util.Random;
 public class TopK {
-	//PROBLEM 2
+	
 	
 		static int topKelement(int array[], int k) {
 			//call the recursive method quickselect
