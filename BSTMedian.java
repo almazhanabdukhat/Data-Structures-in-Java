@@ -11,7 +11,7 @@ class TreeNode {
     }
 }
 
-public class Median {
+public class BSTMedian {
     
     //Problem 0 (preprocessing)
 	
