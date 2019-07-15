@@ -1,4 +1,3 @@
-package almazhanc;
 
 class TreeNode {
     TreeNode left;
