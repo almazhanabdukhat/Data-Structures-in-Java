@@ -1,5 +1,5 @@
 # Data-Structures-in-Java
-Implementations of Data Structures in Java that were required for the university course
+Implementations of Data Structures in Java that were required for CSCI-UA 102 Data Structures
 
 Getting Started You may run it:
 
